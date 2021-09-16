@@ -1,2 +1,4 @@
 /.idea/
 /venv/
+/data_base/
+__pycache__/
